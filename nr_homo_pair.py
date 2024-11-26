@@ -10,8 +10,8 @@ from scipy.sparse import bmat
 from scipy.sparse.linalg import bicgstab
 import matplotlib.pyplot as plt
 from numpy import linalg as la
-from dyn_h import rltm
-from anim import anim
+#from dyn_h import rltm
+#from anim import anim
 import time
 
 #
